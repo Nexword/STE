@@ -10,6 +10,7 @@ namespace STELibrary
         #region Basis class and interface
 
         interface ISTEContentElement
+	//Oh wei
         {
             float Left { get; set; }
             float Top { get; set; }
