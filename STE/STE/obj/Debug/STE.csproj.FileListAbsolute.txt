@@ -1,1 +1,2 @@
 W:\STE\STE\STE\bin\Debug\STE.exe.config
+D:\STE\STE\STE\STE\bin\Debug\STE.exe.config

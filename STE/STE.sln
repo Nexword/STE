@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STE", "STE\STE.csproj", "{71F17950-F4A1-41CF-9187-4D53CC9BB161}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STECL", "STECL\STECL.csproj", "{CFFDF3B8-B3AA-409E-AC8D-4E721FE38630}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{71F17950-F4A1-41CF-9187-4D53CC9BB161}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71F17950-F4A1-41CF-9187-4D53CC9BB161}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71F17950-F4A1-41CF-9187-4D53CC9BB161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFFDF3B8-B3AA-409E-AC8D-4E721FE38630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFFDF3B8-B3AA-409E-AC8D-4E721FE38630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFFDF3B8-B3AA-409E-AC8D-4E721FE38630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFFDF3B8-B3AA-409E-AC8D-4E721FE38630}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
