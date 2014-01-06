@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace STECL
+namespace STEIL
 {
-
+    public class Class1
+    {
+    }
 }
