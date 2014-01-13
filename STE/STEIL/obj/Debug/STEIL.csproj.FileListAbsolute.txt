@@ -1,0 +1,7 @@
+D:\STE\STE\STE\STEIL\bin\Debug\STEIL.dll
+D:\STE\STE\STE\STEIL\bin\Debug\STEIL.pdb
+D:\STE\STE\STE\STEIL\bin\Debug\STECL.dll
+D:\STE\STE\STE\STEIL\bin\Debug\STECL.pdb
+D:\STE\STE\STE\STEIL\obj\Debug\STEIL.csprojResolveAssemblyReference.cache
+D:\STE\STE\STE\STEIL\obj\Debug\STEIL.dll
+D:\STE\STE\STE\STEIL\obj\Debug\STEIL.pdb

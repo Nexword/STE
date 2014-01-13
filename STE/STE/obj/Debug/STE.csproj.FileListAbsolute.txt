@@ -1,2 +1,11 @@
 W:\STE\STE\STE\bin\Debug\STE.exe.config
 D:\STE\STE\STE\STE\bin\Debug\STE.exe.config
+D:\STE\STE\STE\STE\bin\Debug\STE.exe
+D:\STE\STE\STE\STE\bin\Debug\STE.pdb
+D:\STE\STE\STE\STE\obj\Debug\STE.csprojResolveAssemblyReference.cache
+D:\STE\STE\STE\STE\obj\Debug\STE.exe
+D:\STE\STE\STE\STE\obj\Debug\STE.pdb
+D:\STE\STE\STE\STE\bin\Debug\STECL.dll
+D:\STE\STE\STE\STE\bin\Debug\STEIL.dll
+D:\STE\STE\STE\STE\bin\Debug\STECL.pdb
+D:\STE\STE\STE\STE\bin\Debug\STEIL.pdb

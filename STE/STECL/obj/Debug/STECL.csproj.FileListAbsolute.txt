@@ -1,0 +1,5 @@
+D:\STE\STE\STE\STECL\obj\Debug\STECL.csprojResolveAssemblyReference.cache
+D:\STE\STE\STE\STECL\bin\Debug\STECL.dll
+D:\STE\STE\STE\STECL\bin\Debug\STECL.pdb
+D:\STE\STE\STE\STECL\obj\Debug\STECL.dll
+D:\STE\STE\STE\STECL\obj\Debug\STECL.pdb

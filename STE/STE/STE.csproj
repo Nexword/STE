@@ -34,6 +34,22 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="STEMain.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\STECL\STECL.csproj">
+      <Project>{cffdf3b8-b3aa-409e-ac8d-4e721fe38630}</Project>
+      <Name>STECL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\STEIL\STEIL.csproj">
+      <Project>{43385094-62b6-4aca-a0c8-f7ba11a5bc89}</Project>
+      <Name>STEIL</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
