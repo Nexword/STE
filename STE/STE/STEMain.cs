@@ -19,6 +19,7 @@ namespace STE
             STEPresenter DrawMaster = new STEPresenter();
             myTest = dataLoader.STEMakeStructure();
             DrawMaster.STEPresenterConsoleOutput(myTest);
+            Console.WriteLine("Fucking WPF");
         }
     }
 }
