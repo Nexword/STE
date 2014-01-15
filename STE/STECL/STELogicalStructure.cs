@@ -12,7 +12,7 @@ namespace STECL
     public class STESimpleTest:ISTETest 
     {
         private int id;
-        public List<STETaskBlock> TaskBlock = new List<STETaskBlock>();
+        public List<STETaskBlock> TaskBlock;
         public STETestNote Note;
         
         public int Id 
@@ -20,7 +20,14 @@ namespace STECL
             get { return id; }
             set { id = value ; } 
         }
+
+        public STESimpleTest()
+        {
+            TaskBlock = new List<STETaskBlock>();
+            Note = new STETestNote();
+        }
     }
+
 
     public class STETestNote 
     {
@@ -30,12 +37,17 @@ namespace STECL
     public class STETaskBlock 
     {
         private int id;
-        public List<STETask> Task = new List<STETask>();
+        public List<STETask> Task;
        
         public int Id 
         {
             get { return id; }
             set { id = value; } 
+        }
+
+        public STETaskBlock()
+        {
+            Task = new List<STETask>();
         }
     }
 
@@ -43,12 +55,17 @@ namespace STECL
     {
         private int id;
         public STEQuestion Question;
-        public List<STEAnswer> Answer = new List<STEAnswer>();
+        public List<STEAnswer> Answer;
         
         public int Id
         {
             get { return id; }
             set { id = value; }
+        }
+
+        public STETask()
+        {
+            Answer =  new List<STEAnswer>();
         }
     }
 

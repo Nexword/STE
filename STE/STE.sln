@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STECL", "STECL\STECL.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STEIL", "STEIL\STEIL.csproj", "{43385094-62B6-4ACA-A0C8-F7BA11A5BC89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STEDP", "STEDP\STEDP.csproj", "{D3B43A56-EB00-450A-A4ED-EF08CCB693E5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{43385094-62B6-4ACA-A0C8-F7BA11A5BC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43385094-62B6-4ACA-A0C8-F7BA11A5BC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43385094-62B6-4ACA-A0C8-F7BA11A5BC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B43A56-EB00-450A-A4ED-EF08CCB693E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B43A56-EB00-450A-A4ED-EF08CCB693E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B43A56-EB00-450A-A4ED-EF08CCB693E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B43A56-EB00-450A-A4ED-EF08CCB693E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

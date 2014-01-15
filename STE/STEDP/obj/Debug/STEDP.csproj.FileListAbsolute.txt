@@ -1,0 +1,7 @@
+D:\STE\STE\STE\STEDP\bin\Debug\STEDP.dll
+D:\STE\STE\STE\STEDP\bin\Debug\STEDP.pdb
+D:\STE\STE\STE\STEDP\bin\Debug\STECL.dll
+D:\STE\STE\STE\STEDP\bin\Debug\STECL.pdb
+D:\STE\STE\STE\STEDP\obj\Debug\STEDP.csprojResolveAssemblyReference.cache
+D:\STE\STE\STE\STEDP\obj\Debug\STEDP.dll
+D:\STE\STE\STE\STEDP\obj\Debug\STEDP.pdb

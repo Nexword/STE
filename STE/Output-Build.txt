@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: STEDP, Configuration: Debug Any CPU ------
+1>  STEDP -> D:\STE\STE\STE\STEDP\bin\Debug\STEDP.dll
+2>------ Build started: Project: STE, Configuration: Debug Any CPU ------
+2>  STE -> D:\STE\STE\STE\STE\bin\Debug\STE.exe
+========== Build: 2 succeeded, 0 failed, 2 up-to-date, 0 skipped ==========

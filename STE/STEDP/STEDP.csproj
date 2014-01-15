@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{43385094-62B6-4ACA-A0C8-F7BA11A5BC89}</ProjectGuid>
+    <ProjectGuid>{D3B43A56-EB00-450A-A4ED-EF08CCB693E5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>STEIL</RootNamespace>
-    <AssemblyName>STEIL</AssemblyName>
+    <RootNamespace>STEDP</RootNamespace>
+    <AssemblyName>STEDP</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -39,8 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Network.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="STEDataLoader.cs" />
+    <Compile Include="STEPresenter.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\STECL\STECL.csproj">
